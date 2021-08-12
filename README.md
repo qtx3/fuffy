@@ -3,7 +3,7 @@ _fuffy_ is an open-source Discord bot with an unique approach for managing sourc
 
 ⚠️ This will require some technical knowledge to implement. Don't feel discouraged though! Further down you'll find a super simple guide which even the daftest person will be able to follow.
 
-## Benefits
+## Benefits 🌸
 * You're in charge, change anything you want - even the name and profile picture!
 
 * Community-driven - due to the open-source nature of this project, everyone is able to contribute
@@ -18,8 +18,8 @@ _fuffy_ is an open-source Discord bot with an unique approach for managing sourc
 
 ## Installation
 
-### Desktop (not recommended)
-Why don't I recommend this method? Here are a few reasons:
+### Desktop (not recommended, free)
+Why do I not recommend this method? Here are a few reasons:
 * Desktop off => Bot downtime
 * Consumes energy and computer resources
 * Endangers your security
